@@ -1,0 +1,127 @@
+body{
+    background-image: url(mem.jpg);
+    background-size: cover;
+    text-align: center;
+}
+.all1{
+    height:90.5%;
+    border-radius: 20px;
+    border-color: white;
+    border-width: 10px;
+    border-style: dashed;
+    margin-left: 60px;
+}
+.all2{
+    height:90.5%;
+    border-radius: 20px;
+    border-color: white;
+    border-width: 10px;
+    border-style: dashed;
+    margin-left: 60px;
+}
+.all3{
+    height:90.5%;
+    border-radius: 20px;
+    border-color: white;
+    border-width: 10px;
+    border-style: dashed;
+    margin-left: 60px;
+}
+.all4{
+    height:48.5%;
+    border-radius: 20px;
+    border-color: white;
+    border-width: 10px;
+    border-style: dashed;
+    margin-left: 60px;
+}
+.all5{
+    height:90.5%;
+    border-radius: 20px;
+    border-color: white;
+    border-width: 10px;
+    border-style: dashed;
+    margin-left: 60px;
+}
+.all6{
+    height:90.5%;
+    border-radius: 20px;
+    border-color: white;
+    border-width: 10px;
+    border-style: dashed;
+    margin-left: 60px;
+}
+.all7{
+    height:44%;
+    border-radius: 20px;
+    border-color: white;
+    border-width: 10px;
+    border-style: dashed;
+    margin-left: 60px;
+}
+.images{
+    height:38.4%;
+    border-radius: 20px;
+    border-color: white;
+    border-width: 10px;
+    border-style: dashed;
+    margin-left: 60px;
+}
+.images2{
+    height:43.4%;
+    border-radius: 20px;
+    border-color: white;
+    border-width: 10px;
+    border-style: dashed;
+    margin-left: 60px;
+}
+.images3{
+    height: 58.4%;
+    border-radius: 20px;
+    border-color: white;
+    border-width: 10px;
+    border-style: dashed;
+    margin-left: 60px;
+}
+.images4{
+    height:58.5%;
+    border-radius: 20px;
+    border-color: white;
+    border-width: 10px;
+    border-style: dashed;
+    margin-left: 60px;
+}
+button{
+font-size:30px;
+    border-radius: 100%;
+    color: white;
+    font-family: stencil;
+    margin-right:80%;
+    margin-top:5%;
+    box-shadow: 0 0 30px #ffffff;
+    
+}
+a{
+    color: black;
+}
+.back{
+    height:100px;
+
+}
+.talk{
+    border-radius:50px;
+    width:50%;
+    height: 10%;
+    font-family:impact;
+    font-size: 50px;
+    background-color: rgb(255, 255, 255);
+    border-color: pink;
+    border-style: dashed;
+    border-width: 20px;
+    margin-bottom: 30px;
+    margin-left: 24%;
+    box-shadow: 0 0 50px #ff5353;
+}
+.memimg{
+    text-align: center;
+}
